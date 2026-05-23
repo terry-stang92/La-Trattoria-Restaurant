@@ -2,7 +2,7 @@
 
 A dark, elegant restaurant landing page built with vanilla HTML, CSS, and JavaScript.
 
-**Live Demo:** https://terry-stang92.github.io/-La-Trattoria---restaurant-landing-page-HTML-CSS-JS-/
+**Live Demo:** terry-stang92.github.io/La-Trattoria-Restaurant/
 
 ## Features
 
