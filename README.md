@@ -4,6 +4,9 @@ A dark, elegant restaurant landing page built with vanilla HTML, CSS, and JavaSc
 
 **Live Demo:** terry-stang92.github.io/La-Trattoria-Restaurant/
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7041c004-e91a-4ae2-9a8a-0a39d76e02ec" />
+
+
 ## Features
 
 - Responsive mobile-first design with hamburger menu
